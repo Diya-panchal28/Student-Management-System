@@ -96,6 +96,6 @@ This project demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-**Krish Panchal**
+**Diya Panchal**
 
 If you found this project helpful, consider giving the repository a ⭐.
